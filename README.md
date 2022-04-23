@@ -1,1 +1,3 @@
-# Lab6Web
+#Pengenalan
+
+![Pengenalan](screnshot/gambar1.png)
